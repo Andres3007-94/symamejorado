@@ -1,0 +1,9 @@
+kai filter=lfs diff=lfs merge=lfs -text
+sin filter=lfs diff=lfs merge=lfs -text
+devolucion.zip filter=lfs diff=lfs merge=lfs -text
+sistema- filter=lfs diff=lfs merge=lfs -text
+version filter=lfs diff=lfs merge=lfs -text
+bajada filter=lfs diff=lfs merge=lfs -text
+de filter=lfs diff=lfs merge=lfs -text
+sistema.zip filter=lfs diff=lfs merge=lfs -text
+sistema filter=lfs diff=lfs merge=lfs -text

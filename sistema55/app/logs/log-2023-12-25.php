@@ -1,0 +1,21 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-12-25 10:00:48 --> Could not find the language line "get_day_profit"
+ERROR - 2023-12-25 10:01:46 --> Could not find the language line "ip_address"
+ERROR - 2023-12-25 10:01:46 --> Could not find the language line "time"
+ERROR - 2023-12-25 10:01:46 --> Could not find the language line "ip_address"
+ERROR - 2023-12-25 10:01:46 --> Could not find the language line "time"
+ERROR - 2023-12-25 10:02:09 --> Could not find the language line "ip_address"
+ERROR - 2023-12-25 10:02:09 --> Could not find the language line "time"
+ERROR - 2023-12-25 10:02:09 --> Could not find the language line "ip_address"
+ERROR - 2023-12-25 10:02:09 --> Could not find the language line "time"
+ERROR - 2023-12-25 13:08:12 --> Could not find the language line "get_day_profit"
+ERROR - 2023-12-25 13:08:34 --> Could not find the language line "unit_and_net_tip"
+ERROR - 2023-12-25 13:08:34 --> Severity: Warning --> Division by zero /home/ligaspor/ligasportperu.com/sistema/themes/default/admin/views/reports/monthly_profit.php 146
+ERROR - 2023-12-25 13:09:13 --> Could not find the language line "ip_address"
+ERROR - 2023-12-25 13:09:13 --> Could not find the language line "time"
+ERROR - 2023-12-25 13:09:13 --> Could not find the language line "ip_address"
+ERROR - 2023-12-25 13:09:13 --> Could not find the language line "time"
+ERROR - 2023-12-25 13:09:27 --> Could not find the language line "get_day_profit"
+ERROR - 2023-12-25 13:09:30 --> Could not find the language line "unit_and_net_tip"
+ERROR - 2023-12-25 20:14:33 --> Could not find the language line "sync_quantity"
